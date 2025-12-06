@@ -208,69 +208,11 @@ Keyboard,75,2024-01-17,East,Bob Johnson
    - Sortable columns
    - Responsive design
 
-## 🚀 Deployment
-
-### Backend (Render/Heroku)
-
-1. Set environment variables:
-   - `MONGO_URI` - MongoDB connection string
-   - `JWT_SECRET` - Secret key for JWT
-   - `PORT` - Server port
-
-2. Deploy to your platform
-
-### Frontend (Vercel/Netlify)
-
-1. Set environment variable:
-   - `REACT_APP_API_URL` - Your backend API URL
-
-2. Build and deploy:
-   ```bash
-   npm run build
-   ```
-
-## 📸 Screenshots Guide
-
-To add screenshots to this README:
-
-1. Create a `screenshots/` folder in the project root
-2. Take screenshots of:
-   - Login page
-   - Dashboard overview
-   - CSV upload interface
-   - Charts and analytics
-   - Statistics view
-3. Name them: `login.png`, `dashboard.png`, `upload.png`, `charts.png`, `stats.png`
-4. Update the image paths in this README
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [Your GitHub](https://github.com/your-username)
+Your Name - [Yogidc](https://github.com/yogidc)
 
-## 🙏 Acknowledgments
 
-- Material-UI for the component library
-- Recharts for beautiful data visualization
-- Express.js and React communities
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue on GitHub.
-
----
 
 ⭐ If you like this project, please give it a star on GitHub!
